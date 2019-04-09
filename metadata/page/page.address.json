@@ -1,0 +1,38 @@
+{
+  "_id": "page.address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.address--textarea.auto_name__11",
+      "_type": "textarea",
+      "label": "Building and street",
+      "name": "auto_name__11"
+    },
+    {
+      "_id": "page.address--text.auto_name__12",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__12"
+    },
+    {
+      "_id": "page.address--text.auto_name__13",
+      "_type": "text",
+      "label": "County",
+      "name": "auto_name__13",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.address--text.auto_name__14",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__14",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "heading": "Enter your address",
+  "url": "address"
+}

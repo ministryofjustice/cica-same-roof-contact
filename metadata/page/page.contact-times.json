@@ -1,0 +1,33 @@
+{
+  "_id": "page.contact-times",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contact-times--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply.",
+      "items": [
+        {
+          "_id": "page.contact-times--checkboxes--checkbox.auto_name__21",
+          "_type": "checkbox",
+          "label": "Morning - 8.30am to 12 noon (from 10am on Wednesdays)",
+          "name": "auto_name__21"
+        },
+        {
+          "_id": "page.contact-times--checkboxes--checkbox.auto_name__22",
+          "_type": "checkbox",
+          "label": "Lunchtime - 12 noon to 2pm",
+          "name": "auto_name__22"
+        },
+        {
+          "_id": "page.contact-times--checkboxes--checkbox.auto_name__23",
+          "_type": "checkbox",
+          "label": "Afternoon - 2pm to 5pm",
+          "name": "auto_name__23"
+        }
+      ],
+      "legend": "Which times of the day are best for us to call you?"
+    }
+  ],
+  "url": "contact-times"
+}

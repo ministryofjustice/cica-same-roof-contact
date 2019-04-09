@@ -1,0 +1,26 @@
+{
+  "_id": "page.name",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.name--text.auto_name__5",
+      "_type": "text",
+      "label": "Title",
+      "name": "auto_name__5"
+    },
+    {
+      "_id": "page.name--text.auto_name__6",
+      "_type": "text",
+      "label": "First name",
+      "name": "auto_name__6"
+    },
+    {
+      "_id": "page.name--text.auto_name__7",
+      "_type": "text",
+      "label": "Last name",
+      "name": "auto_name__7"
+    }
+  ],
+  "heading": "Enter your name",
+  "url": "name"
+}

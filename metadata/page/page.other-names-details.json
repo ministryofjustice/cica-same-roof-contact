@@ -1,0 +1,18 @@
+{
+  "_id": "page.other-names-details",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.other-names-details--text.auto_name__9",
+      "_type": "text",
+      "label": "What other names have you used?",
+      "name": "auto_name__9"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__8",
+    "operator": "is",
+    "value": "auto_value__3"
+  },
+  "url": "other-names-details"
+}

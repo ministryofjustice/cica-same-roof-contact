@@ -1,11 +1,18 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "# Overview\r\n\r\n## Abolision of the 'same roof' rule\r\n\r\nOn XX May 2019 the government abolished the ‘same-roof’ rule.\r\n\r\nThe 'same roof' rule:\r\n\r\nwas part of the Criminal Injuries Compensation Scheme from 1 August 1964\r\nstopped victims getting compensation if they lived with their abuser\r\nchanged on 1 October 1979 to apply only to adults who continued to live with their abuser\r\n\r\n## What the change means\r\nVictims who lived with their abusers, and were abused between 1 August 1964 and 1 October 1979, can now apply for compensation.\r\n\r\nThis includes victims who, because of the ‘same roof’ rule:\r\n\r\nhad a compensation claim rejected\r\ndid not apply for compensation\r\nAll applications will still need to meet the remaining eligibility criteria.\r\n\r\n\r\n> * If you have an ongoing application, you do not need to make an enquiry.\r\n\r\nThis form is for victims who lived with their abuser between 1 August 1964 and 1 October 1979. It includes those who, because of the ‘same roof’ rule:\r\n\r\nhad compensation claims rejected\r\ndid not apply for compensation\r\nIf the ‘same roof’ rule did not affect you, you must use our online application service.\r\n\r\n## Before you start\r\nYou will need:\r\n\r\n* your previous application reference numbers if you have applied before\r\n* a phone number we contact you on\r\n\r\nYou should be aware that we will:\r\n\r\n* only contact you by telephone\r\n* assess your application against the requirements of the current Criminal Injuries Compensation Scheme",
+  "body": "# Start an enquiry\r\n\r\nThis form is for victims who lived with their abuser between 1 August 1964 and 1 October 1979. It includes those who, because of the ‘same roof’ rule:\r\n\r\n* had compensation claims rejected\r\n* did not apply for compensation\r\n\r\n> * If the ‘same roof’ rule did not affect you, you must use our online application service.\r\n\r\n## Before you start\r\nYou will need:\r\n\r\n* your previous application reference numbers if you have applied before\r\n* a phone number we contact you on\r\n\r\nYou should be aware that we will:\r\n\r\n* only contact you by telephone\r\n* assess your application against the requirements of the current Criminal Injuries Compensation Scheme\r\n\r\n## Other ways to start an enquiry\r\nIf you cannot use the online form there are other ways you can start your enquiry.\r\n\r\n### Telephone\r\nFrom the UK: 0300 003 360, select option 8\r\nOverseas: +44 (0)203 684 2517\r\nFind out about call charges\r\n\r\n### Email\r\nSRR@cica.gov.uk\r\n\r\n### Post\r\nPost Criminal Injuries Compensation Authority\r\nAlexander Bain House\r\nAtlantic Quay\r\n15 York Street\r\nGlasgow\r\nG2 8JQ\r\nUnited Kingdom\r\n\r\n### Support\r\nFor practical or emotional support visit the Victim and Witness infomation websites:\r\n\r\n* England and Wales\r\n* Scotland",
   "heading": "Apply for compensation for a criminal injury",
   "steps": [
-    "page.questions",
-    "page.test",
+    "page.have-you-applied",
+    "page.name",
+    "page.other-names",
+    "page.other-names-details",
+    "page.date-of-birth",
+    "page.address",
+    "page.phone",
+    "page.contact-time",
+    "page.contact-times",
     "page.check",
     "page.confirm"
   ],

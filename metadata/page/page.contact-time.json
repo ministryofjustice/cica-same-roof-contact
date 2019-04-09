@@ -1,0 +1,45 @@
+{
+  "_id": "page.contact-time",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contact-time--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply.",
+      "items": [
+        {
+          "_id": "page.contact-time--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "label": "Monday",
+          "name": "auto_name__16"
+        },
+        {
+          "_id": "page.contact-time--checkboxes--checkbox.auto_name__17",
+          "_type": "checkbox",
+          "label": "Tuesday",
+          "name": "auto_name__17"
+        },
+        {
+          "_id": "page.contact-time--checkboxes--checkbox.auto_name__18",
+          "_type": "checkbox",
+          "label": "Wednesday",
+          "name": "auto_name__18"
+        },
+        {
+          "_id": "page.contact-time--checkboxes--checkbox.auto_name__19",
+          "_type": "checkbox",
+          "label": "Thursday",
+          "name": "auto_name__19"
+        },
+        {
+          "_id": "page.contact-time--checkboxes--checkbox.auto_name__20",
+          "_type": "checkbox",
+          "label": "Friday",
+          "name": "auto_name__20"
+        }
+      ],
+      "legend": "Which days would be best for us to call you?"
+    }
+  ],
+  "url": "contact-time"
+}
