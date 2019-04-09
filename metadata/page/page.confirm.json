@@ -1,0 +1,8 @@
+{
+  "_id": "page.confirm",
+  "_type": "page.confirmation",
+  "body": "## If you need to contact the team\r\n\r\n### Telephone\r\nFrom the UK: 0300 003 360, select option 8\r\nOverseas: +44 (0)203 684 2517\r\nFind out about call charges\r\n\r\n### Email\r\nSRR@cica.gov.uk\r\n\r\n### Post\r\nPost Criminal Injuries Compensation Authority\r\nAlexander Bain House\r\nAtlantic Quay\r\n15 York Street\r\nGlasgow\r\nG2 8JQ\r\nUnited Kingdom",
+  "heading": "Your enquiry has been submitted",
+  "lede": "Our team will be in contact with you",
+  "url": "confirm"
+}

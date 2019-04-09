@@ -1,9 +1,13 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "**This is the main content section of your start page**\r\n\r\n[Edit this page](/edit) with content for your own service.\r\n\r\n## Adding more content\r\n\r\nYou can add multiple headings, links and paragraphs - all in this one content section.\r\n\r\nUse [markdown](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/markdown) to format headings, bullet lists and links.",
-  "heading": "This is your start page heading",
-  "lede": "This is your start page first paragraph. You can only have one paragraph here.",
-  "steps": [],
+  "body": "# Overview\r\n\r\n## Abolision of the 'same roof' rule\r\n\r\nOn XX May 2019 the government abolished the ‘same-roof’ rule.\r\n\r\nThe 'same roof' rule:\r\n\r\nwas part of the Criminal Injuries Compensation Scheme from 1 August 1964\r\nstopped victims getting compensation if they lived with their abuser\r\nchanged on 1 October 1979 to apply only to adults who continued to live with their abuser\r\n\r\n## What the change means\r\nVictims who lived with their abusers, and were abused between 1 August 1964 and 1 October 1979, can now apply for compensation.\r\n\r\nThis includes victims who, because of the ‘same roof’ rule:\r\n\r\nhad a compensation claim rejected\r\ndid not apply for compensation\r\nAll applications will still need to meet the remaining eligibility criteria.\r\n\r\n\r\n> * If you have an ongoing application, you do not need to make an enquiry.\r\n\r\nThis form is for victims who lived with their abuser between 1 August 1964 and 1 October 1979. It includes those who, because of the ‘same roof’ rule:\r\n\r\nhad compensation claims rejected\r\ndid not apply for compensation\r\nIf the ‘same roof’ rule did not affect you, you must use our online application service.\r\n\r\n## Before you start\r\nYou will need:\r\n\r\n* your previous application reference numbers if you have applied before\r\n* a phone number we contact you on\r\n\r\nYou should be aware that we will:\r\n\r\n* only contact you by telephone\r\n* assess your application against the requirements of the current Criminal Injuries Compensation Scheme",
+  "heading": "Apply for compensation for a criminal injury",
+  "steps": [
+    "page.questions",
+    "page.test",
+    "page.check",
+    "page.confirm"
+  ],
   "url": "/"
 }
