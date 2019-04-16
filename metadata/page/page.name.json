@@ -1,12 +1,14 @@
 {
   "_id": "page.name",
   "_type": "page.form",
+  "classes": "govuk-fieldset__legend--xl",
   "components": [
     {
       "_id": "page.name--text.auto_name__5",
       "_type": "text",
       "label": "Title",
-      "name": "auto_name__5"
+      "name": "auto_name__5",
+      "widthClassInput": "10"
     },
     {
       "_id": "page.name--text.auto_name__6",

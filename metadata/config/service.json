@@ -3,6 +3,6 @@
   "_type": "config.service",
   "name": "Apply for criminal injuries compensation",
   "pdfSubHeading": "'Same roof' rule",
-  "phase": "beta",
+  "phase": "none",
   "phaseText": "Service phase text goes here"
 }

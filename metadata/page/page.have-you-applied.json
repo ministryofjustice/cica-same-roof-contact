@@ -5,6 +5,7 @@
     {
       "_id": "page.have-you-applied--radios.auto_name__2",
       "_type": "radios",
+      "classes": "govuk-fieldset__legend--xl",
       "items": [
         {
           "_id": "page.have-you-applied--radios.auto_name__2--radio.auto_value__1",

@@ -6,7 +6,8 @@
       "_id": "page.phone--text.auto_name__15",
       "_type": "text",
       "label": "Enter your telephone number",
-      "name": "auto_name__15"
+      "name": "auto_name__15",
+      "widthClassInput": "20"
     }
   ],
   "url": "phone"
