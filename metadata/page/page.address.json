@@ -3,26 +3,20 @@
   "_type": "page.form",
   "components": [
     {
-      "_id": "page.address--fieldset",
-      "_type": "fieldset",
-      "components": [
-        {
-          "_id": "page.address--fieldset--text.auto_name__1",
-          "_type": "text",
-          "label": "Building and street",
-          "labelhide": true,
-          "name": "auto_name__1"
-        },
-        {
-          "_id": "page.address--fieldset--text.auto_name__3",
-          "_type": "text",
-          "label": "Line 2",
-          "name": "auto_name__3",
-          "validation": {
-            "required": false
-          }
-        }
-      ]
+      "_id": "page.address--text.auto_name__1",
+      "_type": "text",
+      "label": "Street and building",
+      "name": "auto_name__1"
+    },
+    {
+      "_id": "page.address--text.auto_name__3",
+      "_type": "text",
+      "label": "Address line 2",
+      "labelhide": true,
+      "name": "auto_name__3",
+      "validation": {
+        "required": false
+      }
     },
     {
       "$component": true,
