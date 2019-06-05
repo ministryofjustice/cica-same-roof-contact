@@ -1,7 +1,7 @@
 {
   "_id": "page.check",
   "_type": "page.summary",
-  "sendBody": "By submitting this enquiry, you confirm that the information you have given is accurate.\r\n\r\nTo find out more about how we handle your data read our [privacy notice.](https://www.google.com)",
-  "sendHeading": "Agree and submit your enquiry",
+  "sendBody": "By submitting this request, you confirm that the information you have given is accurate.\r\n\r\nTo find out more about how we handle your data read our [privacy notice.](https://www.gov.uk/guidance/cica-privacy-notice)",
+  "sendHeading": "Agree and submit your request",
   "url": "check"
 }

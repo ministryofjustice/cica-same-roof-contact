@@ -11,34 +11,35 @@
           "_id": "page.contact-time--checkboxes--checkbox.auto_name__16",
           "_type": "checkbox",
           "label": "Monday",
-          "name": "auto_name__16"
+          "name": "contact_days_monday"
         },
         {
           "_id": "page.contact-time--checkboxes--checkbox.auto_name__17",
           "_type": "checkbox",
           "label": "Tuesday",
-          "name": "auto_name__17"
+          "name": "contact_days_tuesday"
         },
         {
           "_id": "page.contact-time--checkboxes--checkbox.auto_name__18",
           "_type": "checkbox",
           "label": "Wednesday",
-          "name": "auto_name__18"
+          "name": "contact_days_wednesday"
         },
         {
           "_id": "page.contact-time--checkboxes--checkbox.auto_name__19",
           "_type": "checkbox",
           "label": "Thursday",
-          "name": "auto_name__19"
+          "name": "contact_days_thursday"
         },
         {
           "_id": "page.contact-time--checkboxes--checkbox.auto_name__20",
           "_type": "checkbox",
           "label": "Friday",
-          "name": "auto_name__20"
+          "name": "contact_days_friday"
         }
       ],
-      "legend": "Which days would be best for us to call you?"
+      "legend": "Which days would be best for us to call you?",
+      "validation": {}
     }
   ],
   "url": "contact-time"

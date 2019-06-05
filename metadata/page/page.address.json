@@ -6,14 +6,14 @@
       "_id": "page.address--text.auto_name__1",
       "_type": "text",
       "label": "Street and building",
-      "name": "auto_name__1"
+      "name": "address_1"
     },
     {
       "_id": "page.address--text.auto_name__3",
       "_type": "text",
       "label": "Address line 2",
       "labelhide": true,
-      "name": "auto_name__3",
+      "name": "address_2",
       "validation": {
         "required": false
       }
@@ -26,7 +26,7 @@
       "_id": "page.address--text.auto_name__12",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__12"
+      "name": "address_town"
     },
     {
       "$component": true,
@@ -36,7 +36,7 @@
       "_id": "page.address--text.auto_name__13",
       "_type": "text",
       "label": "County",
-      "name": "auto_name__13",
+      "name": "address_county",
       "validation": {
         "required": false
       }
@@ -49,7 +49,7 @@
       "_id": "page.address--text.auto_name__14",
       "_type": "text",
       "label": "Postcode",
-      "name": "auto_name__14",
+      "name": "address_postcode",
       "validation": {
         "required": false
       },

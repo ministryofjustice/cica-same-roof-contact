@@ -10,17 +10,17 @@
           "_id": "page.other-names--radios.auto_name__8--radio.auto_value__3",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__3"
+          "value": "yes"
         },
         {
           "_id": "page.other-names--radios.auto_name__8--radio.auto_value__4",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__4"
+          "value": "no"
         }
       ],
       "legend": "Have you ever been known by any other names?",
-      "name": "auto_name__8"
+      "name": "previous_names"
     }
   ],
   "url": "other-names"

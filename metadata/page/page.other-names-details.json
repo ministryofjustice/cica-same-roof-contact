@@ -6,13 +6,13 @@
       "_id": "page.other-names-details--text.auto_name__9",
       "_type": "text",
       "label": "What other names have you used?",
-      "name": "auto_name__9"
+      "name": "previous_names_details"
     }
   ],
   "show": {
-    "identifier": "auto_name__8",
+    "identifier": "previous_names",
     "operator": "is",
-    "value": "auto_value__3"
+    "value": "yes"
   },
   "url": "other-names-details"
 }

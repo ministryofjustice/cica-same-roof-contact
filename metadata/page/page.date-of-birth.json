@@ -7,7 +7,7 @@
       "_type": "date",
       "hint": "For example, 31 3 1980.",
       "label": "Enter your date of birth",
-      "name": "auto_name__10"
+      "name": "dob"
     }
   ],
   "url": "date-of-birth"
