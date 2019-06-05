@@ -8,21 +8,21 @@
       "hint": "Select all that apply.",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.contact-times--checkboxes--checkbox.auto_name__21",
           "_type": "checkbox",
-          "label": "Morning - 8.30am to 12 noon (from 10am on Wednesdays)",
+          "label": "Morning - 8.30am to 12 noon",
           "name": "auto_name__21"
         },
         {
-          "_id": "page.contact-times--checkboxes--checkbox.auto_name__22",
-          "_type": "checkbox",
-          "label": "Lunchtime - 12 noon to 2pm",
-          "name": "auto_name__22"
-        },
-        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.contact-times--checkboxes--checkbox.auto_name__23",
           "_type": "checkbox",
-          "label": "Afternoon - 2pm to 5pm",
+          "label": "Afternoon - 12 noon to 5pm",
           "name": "auto_name__23"
         }
       ],
