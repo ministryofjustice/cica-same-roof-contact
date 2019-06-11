@@ -26,7 +26,10 @@
           "name": "contact_times_afternoon"
         }
       ],
-      "legend": "Which times of the day are best for us to call you?"
+      "legend": "Which times of the day are best for us to call you?",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "url": "contact-times"

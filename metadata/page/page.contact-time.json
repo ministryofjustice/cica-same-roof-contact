@@ -39,7 +39,9 @@
         }
       ],
       "legend": "Which days would be best for us to call you?",
-      "validation": {}
+      "validation": {
+        "required": true
+      }
     }
   ],
   "url": "contact-time"

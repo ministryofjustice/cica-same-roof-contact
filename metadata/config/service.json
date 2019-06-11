@@ -4,5 +4,6 @@
   "name": "Apply for criminal injuries compensation",
   "pdfHeading": "‘Same roof’ rule",
   "phase": "none",
-  "phaseText": "Service phase text goes here"
+  "phaseText": "Service phase text goes here",
+  "_isa": "@ministryofjustice/fb-components-core=>service"
 }
