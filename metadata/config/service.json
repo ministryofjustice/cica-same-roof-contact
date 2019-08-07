@@ -1,6 +1,7 @@
 {
   "_id": "service",
   "_type": "config.service",
+  "attachUserSubmission": true,
   "name": "Apply for criminal injuries compensation",
   "pdfHeading": "‘Same roof’ rule",
   "phase": "none",
