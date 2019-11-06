@@ -7,7 +7,6 @@
       "_type": "date",
       "hint": "For example, 31 3 1980.",
       "legend": "Enter your date of birth",
-      "label": "Enter your date of birth",
       "name": "dob"
     }
   ],
