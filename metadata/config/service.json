@@ -6,5 +6,6 @@
   "pdfHeading": "‘Same roof’ rule",
   "phase": "none",
   "phaseText": "Service phase text goes here",
-  "_isa": "@ministryofjustice/fb-components-core=>service"
+  "_isa": "@ministryofjustice/fb-components-core=>service",
+  "serviceEmailAddress": "General.Enquiries@cica.gov.uk"
 }
