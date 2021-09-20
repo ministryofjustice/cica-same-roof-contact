@@ -13,6 +13,13 @@
       "_type": "link",
       "href": "https://www.gov.uk/guidance/cica-privacy-notice",
       "text": "Privacy Notice"
+    },
+    {
+      "_id": "config.meta--link--4",
+      "_type": "link",
+      "active": true,
+      "href": "accessibility",
+      "text": "Accessibility"
     }
   ]
 }
