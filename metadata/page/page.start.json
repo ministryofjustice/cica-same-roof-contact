@@ -23,6 +23,7 @@
   ],
   "heading": "Start an enquiry",
   "steps": [
+    "page.closed",
     "page.have-you-applied",
     "page.name",
     "page.other-names",
