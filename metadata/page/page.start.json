@@ -23,18 +23,7 @@
   ],
   "heading": "Start an enquiry",
   "steps": [
-    "page.closed",
-    "page.have-you-applied",
-    "page.name",
-    "page.other-names",
-    "page.other-names-details",
-    "page.date-of-birth",
-    "page.address",
-    "page.phone",
-    "page.contact-time",
-    "page.contact-times",
-    "page.check",
-    "page.confirm"
+    "page.closed"
   ],
   "url": "/"
 }
